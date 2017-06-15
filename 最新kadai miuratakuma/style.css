@@ -1,0 +1,145 @@
+
+@charset "utf-8";
+body{
+    /* background: #fcfcfc url(../images/logo.gif) no-repeat 20px 30px; */
+}
+
+.wrapper{
+    width:500px;
+    margin:0 auto;
+}
+
+.site-title{
+    width:200px;
+    margin:0 auto;
+    border:solid 1px #ff9900;
+    margin-bottom:30px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Hiragino Kaku Gothic ProN', '游ゴシック Medium', meiryo, sans-serif;
+    font-size: 2rem;
+    color:#ff0000;
+    text-align: center;
+}
+
+.lead-sentence{
+    padding-top:50px;
+}
+
+.link-text{
+    color:#00f;
+    text-decoration:none;
+}
+
+.link-text:visited{
+    color:#0f0;
+}
+
+.link-text:hover{
+    color:#f00;
+    text-decoration:underline;
+}
+
+.link-text:active{
+    color:#0ff;
+}
+
+.link-note{
+    font-weight:bold;
+    color:#f00;
+}
+
+.question{
+    float:left;
+    width:200px;
+    background-color:#f00;
+}
+
+dd{
+    background-color:#0ff;
+}
+
+img{
+    max-width:100%;
+    height:auto;
+}
+
+.clearfix:after{
+    content: "";
+    clear: both;
+    display: block;
+}
+.logo-list{
+    background-color: #0ff;
+    padding:100px 0;
+    position:relative;
+}
+.logo-item{
+    float:left;
+    width:200px;
+}
+
+.gsacademy-img{
+    position:fixed;
+    top:0;
+    right:0;
+    z-index:100;
+}
+
+.dh-img{
+    position:fixed;
+    top:0;
+    right:0;
+    z-index:10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
